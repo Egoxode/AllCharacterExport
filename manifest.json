@@ -1,0 +1,12 @@
+{
+	"display_name": "All Character Export",
+	"loading_order": 200,
+	"requires": [],
+	"optional": [],
+	"js": "index.js",
+	"author": "Egoxode",
+	"version": "1.0.0",
+	"homePage": "https://github.com/Egoxode/AllCharacterExport",
+	"auto_update": true,
+	"minimum_client_version": "1.10.0"
+}
